@@ -8,6 +8,9 @@ A "Yolo/OpenCV based cheat that scans your screen and points your mouse in this 
 - ESC key: Exit program
 - Auto-aim: Automatically tracks heads within deadzone
 - Trigger bot: Automatically shoots continuously when crosshair is on target,
-=============================================================================
+============================================
 
-When First Run, It Might Take Awhile To Load.
+·When First Run, It Might Take Awhile To Load.
+
+·Works well with a recoil script with correct configs such as: https://github.com/kindpump/RecoilMaster
+
