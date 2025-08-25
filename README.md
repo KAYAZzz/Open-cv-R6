@@ -2,7 +2,7 @@
 A "Yolo/OpenCV based cheat that scans your screen and points your mouse in the direction of the player.
 
 # Download 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=windows)](https://drive.google.com/file/d/1nFZOaiEIvrfo0anmJViMlT8Mvx6H4E2I/view?usp=drive_link) <-Windows
+[![Download](https://github.com/KAYAZzz/R6-Aimbot/blob/main/download.png)](https://drive.google.com/file/d/1nFZOaiEIvrfo0anmJViMlT8Mvx6H4E2I/view?usp=drive_link) <-Windows
 
 # [🎮 CONTROLS - R6 OPTIMIZED]
 - 'V' key: Manual aim at nearest target
