@@ -13,6 +13,8 @@ import win32api
 import win32con
 import requests
 import os
+from termcolor import colored
+import random
 
 # =========================
 # R6 MODEL CONFIGURATION
@@ -326,6 +328,28 @@ class RainbowGenerator:
         return (int(bgr_color[0]), int(bgr_color[1]), int(bgr_color[2]))
 
 rainbow = RainbowGenerator()
+# Text Rainbow Gen
+def rainbow_text(text):
+    colors = ['red', 'yellow', 'green', 'cyan', 'blue', 'magenta']
+    result = ''
+    
+    for i, line in enumerate(text.splitlines()):
+        color = colors[i % len(colors)]  # Cycle through the colors
+        result += colored(line, color) + '\n'
+    
+    return result
+#text
+text = """
+/$$   /$$  /$$$$$$  /$$     /$$ /$$$$$$  /$$$$$$$$
+| $$  /$$/ /$$__  $$|  $$   /$$//$$__  $$|_____ $$ 
+| $$ /$$/ | $$  \ $$ \  $$ /$$/| $$  \ $$     /$$/ 
+| $$$$$/  | $$$$$$$$  \  $$$$/ | $$$$$$$$    /$$/  
+| $$  $$  | $$__  $$   \  $$/  | $$__  $$   /$$/   
+| $$\  $$ | $$  | $$    | $$   | $$  | $$  /$$/    
+| $$ \  $$| $$  | $$    | $$   | $$  | $$ /$$$$$$$$
+|__/  \__/|__/  |__/    |__/   |__/  |__/|________/
+"""
+
 
 # =========================
 # Utility Functions
@@ -472,18 +496,7 @@ if SHOW_DISPLAY_WINDOW:
         display_window_active = False
 
 try:
-    print(" /$$   /$$  /$$$$$$  /$$     /$$ /$$$$$$  /$$$$$$$$
-| $$  /$$/ /$$__  $$|  $$   /$$//$$__  $$|_____ $$ 
-| $$ /$$/ | $$  \ $$ \  $$ /$$/| $$  \ $$     /$$/ 
-| $$$$$/  | $$$$$$$$  \  $$$$/ | $$$$$$$$    /$$/  
-| $$  $$  | $$__  $$   \  $$/  | $$__  $$   /$$/   
-| $$\  $$ | $$  | $$    | $$   | $$  | $$  /$$/    
-| $$ \  $$| $$  | $$    | $$   | $$  | $$ /$$$$$$$$
-|__/  \__/|__/  |__/    |__/   |__/  |__/|________/
-                                                   
-                                                   
-                                                   
-")
+    
     print(f"\n[INFO] Starting R6-Enhanced Aimbot + Triggerbot...")
     print(f"[INFO] Model: {current_model_type}")
     print(f"[INFO] Screen resolution: {current_monitor['width']}x{current_monitor['height']}")
@@ -657,4 +670,5 @@ finally:
     keyboard_listener.stop()
 
     print("[INFO] R6-Enhanced Aimbot stopped cleanly")
+
 
