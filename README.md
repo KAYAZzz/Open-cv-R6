@@ -1,6 +1,9 @@
 # R6-Aimbot
 A "Yolo/OpenCV based cheat that scans your screen and points your mouse in the direction of the player.
 
+# Install all the necessary libraries
+pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests termcolor
+
 # Download 
 [![Download](https://github.com/KAYAZzz/R6-Aimbot/blob/main/Picsart_25-08-27_18-25-19-412.png)](https://drive.google.com/file/d/1nFZOaiEIvrfo0anmJViMlT8Mvx6H4E2I/view?usp=drive_link) ==============Windows===============
 
