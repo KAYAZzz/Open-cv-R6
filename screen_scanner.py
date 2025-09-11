@@ -28,7 +28,7 @@ R6_MODEL_CONFIG = {
 # =========================
 # CONFIG
 # =========================
-CONFIDENCE = 0.25
+CONFIDENCE = 0.23
 IMG_SIZE = 640
 OVERLAY_COLOR = (0, 255, 0)
 HEAD_COLOR = (0, 0, 255)
@@ -42,7 +42,7 @@ FOCUSED_CAPTURE = True  # Set to True for a huge FPS boost
 CAPTURE_BOX_SIZE = 800   # Size of the square capture box (e.g., 800x800 pixels)
 
 # R6-Optimized parameters
-DEADZONE_RADIUS = 300
+DEADZONE_RADIUS = 275
 ONLY_AIM_IN_DEADZONE = True
 SHOW_DEADZONE = True
 RAINBOW_DEADZONE = True
@@ -472,6 +472,18 @@ if SHOW_DISPLAY_WINDOW:
         display_window_active = False
 
 try:
+    print(" /$$   /$$  /$$$$$$  /$$     /$$ /$$$$$$  /$$$$$$$$
+| $$  /$$/ /$$__  $$|  $$   /$$//$$__  $$|_____ $$ 
+| $$ /$$/ | $$  \ $$ \  $$ /$$/| $$  \ $$     /$$/ 
+| $$$$$/  | $$$$$$$$  \  $$$$/ | $$$$$$$$    /$$/  
+| $$  $$  | $$__  $$   \  $$/  | $$__  $$   /$$/   
+| $$\  $$ | $$  | $$    | $$   | $$  | $$  /$$/    
+| $$ \  $$| $$  | $$    | $$   | $$  | $$ /$$$$$$$$
+|__/  \__/|__/  |__/    |__/   |__/  |__/|________/
+                                                   
+                                                   
+                                                   
+")
     print(f"\n[INFO] Starting R6-Enhanced Aimbot + Triggerbot...")
     print(f"[INFO] Model: {current_model_type}")
     print(f"[INFO] Screen resolution: {current_monitor['width']}x{current_monitor['height']}")
@@ -645,3 +657,4 @@ finally:
     keyboard_listener.stop()
 
     print("[INFO] R6-Enhanced Aimbot stopped cleanly")
+
