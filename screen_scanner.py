@@ -22,7 +22,7 @@ R6_MODEL_CONFIG = {
     "project": "r6-jymu7",
     "version": 1,
     "api_key": None,  # Set your Roboflow API key here or in environment variable
-    "confidence": 0.25
+    "confidence": 0.23
 }
 
 # =========================
@@ -46,13 +46,13 @@ DEADZONE_RADIUS = 300
 ONLY_AIM_IN_DEADZONE = True
 SHOW_DEADZONE = True
 RAINBOW_DEADZONE = True
-RAINBOW_SPEED = 1
+RAINBOW_SPEED = 1.7
 
 # R6-Specific auto-aim parameters
 AUTO_AIM_ENABLED = True
 TRIGGER_BOT_ENABLED = True
 TRIGGER_THRESHOLD = 15
-AIM_SPEED = 0.5
+AIM_SPEED = 0.7
 CONTINUOUS_TRACKING = True
 TRACKING_UPDATE_RATE = 0.1
 HEAD_HITBOX_EXPANSION = 15
@@ -643,4 +643,5 @@ finally:
             pass
     mouse_listener.stop()
     keyboard_listener.stop()
+
     print("[INFO] R6-Enhanced Aimbot stopped cleanly")
