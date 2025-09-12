@@ -2,7 +2,7 @@
 A "Yolo/OpenCV based cheat that scans your screen and points your mouse in the direction of the player.
 
 # Install all the necessary libraries
-pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests termcolor
+pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests termcolor --index-url https://download.pytorch.org/whl/cu126
 
 # Download 
 The Download Setup is Currrently being put into affect
