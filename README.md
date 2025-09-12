@@ -5,7 +5,8 @@ A "Yolo/OpenCV based cheat that scans your screen and points your mouse in the d
 pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests termcolor --index-url https://download.pytorch.org/whl/cu126
 
 # Download 
-(https://cdn.pixabay.com/photo/2016/07/23/10/44/download-1536639_1280.png)[https://drive.google.com/file/d/1ISyyVPrhUzZ4MtXgOwog_mgqx8cpF_It/view?usp=sharing]
+[![Download](https://cdn.pixabay.com/photo/2016/07/23/10/44/download-1536639_1280.png)](https://drive.google.com/file/d/1ISyyVPrhUzZ4MtXgOwog_mgqx8cpF_It/view?usp=sharing)
+
 
 # [🎮 CONTROLS - R6 OPTIMIZED]
 - 'V' key: Manual aim at nearest target
