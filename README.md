@@ -23,7 +23,7 @@ Windows
 
 ·Works well with a recoil script with correct configs such as: https://github.com/kindpump/RecoilMaster
 
-# Examples 
+# Samples
 ![Example One](https://github.com/KAYAZzz/R6-Aimbot/blob/main/ExampleOne.png)
 
 
