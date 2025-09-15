@@ -26,7 +26,7 @@ Windows
 # Examples 
 ![Example One](https://github.com/KAYAZzz/R6-Aimbot/blob/main/ExampleOne.png)
 
-![Example Two](https://github.com/KAYAZzz/R6-Aimbot/blob/main/ExampleTwo.png)
+
 
 ![Gif Example](https://github.com/KAYAZzz/R6-Aimbot/blob/main/Examplevid1.gif)
 
