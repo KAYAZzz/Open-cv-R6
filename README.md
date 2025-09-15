@@ -15,7 +15,6 @@ pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests te
 </a>
 
 </details>
-*Other Platforms Will **NOT** be added in the future*
 
 
 # [🎮 CONTROLS - R6 OPTIMIZED]
