@@ -8,7 +8,7 @@ pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests te
 
 # Download
 <details>
-  <summary>**Windows**</summary>
+  <summary># Download</summary>
 
   <a href="https://drive.google.com/file/d/1ISyyVPrhUzZ4MtXgOwog_mgqx8cpF_It/view?usp=sharing">
   <img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/IMG_0549.png" alt="Download" width="200"/>
