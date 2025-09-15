@@ -12,7 +12,6 @@ Windows
 
 # [🎮 CONTROLS - R6 OPTIMIZED]
 - 'V' key: Manual aim at nearest target
-- RIGHT-CLICK: FREE for scoping! 🔍
 - LEFT-CLICK: Manual shooting (or trigger bot)
 - ESC key: Exit program
 - Auto-aim: Automatically tracks heads within deadzone
