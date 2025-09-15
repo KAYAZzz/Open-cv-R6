@@ -24,12 +24,14 @@ Windows
 ·Works well with a recoil script with correct configs such as: https://github.com/kindpump/RecoilMaster
 
 # Samples
+Sample Image -
 <img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/ExampleOne.png" alt="Example 1" width="300"/>
 </a>
 
-<img src="<img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/image-4.png" alt="Example 2" width="300"/>
+A look at the terminal -
+<img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/image-4.png" alt="Example 2" width="300"/>
 </a>
 
-<img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/Examplevid1.gif" alt="Gif" width="500"/>
+A Video of the Script being Used -<img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/Examplevid1.gif" alt="Gif" width="500"/>
 </a>
 
