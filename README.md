@@ -33,6 +33,10 @@ pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests te
 
 ## Future Updates
 
+- [ ] HTMl Based Config Menu
+- [ ] Add Rapid Fire
+- [ ] Optimization For Higher FPS
+
 # Samples
 Sample Image -
 <img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/ExampleOne.png" alt="Example 1" width="300"/>
