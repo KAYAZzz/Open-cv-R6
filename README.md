@@ -1,9 +1,9 @@
 # R6-Aimbot
 A "Yolo/OpenCV based cheat that scans your screen and points your mouse in the direction of the player.
 
-# Run As Administrator and Wait for Script to load
+## Run As Administrator and Wait for Script to load
 
-# Install all the necessary libraries
+## Install all the necessary libraries
 ```bash
 pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests termcolor roboflow --index-url https://download.pytorch.org/whl/cu126
 ```
@@ -30,6 +30,8 @@ pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests te
 ·When First Run, It Might Take Awhile To Load.
 
 ·Works well with a recoil script with correct configs such as: https://github.com/kindpump/RecoilMaster
+
+## Future Updates
 
 # Samples
 Sample Image -
