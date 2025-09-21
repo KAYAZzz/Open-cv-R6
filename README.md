@@ -5,7 +5,7 @@ A "Yolo/OpenCV based cheat that scans your screen and points your mouse in the d
 
 ## Install all the necessary libraries
 ```bash
-pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests termcolor roboflow --index-url https://download.pytorch.org/whl/cu126
+pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests termcolor --index-url https://download.pytorch.org/whl/cu126
 ```
 
 # Download
