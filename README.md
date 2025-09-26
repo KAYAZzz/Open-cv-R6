@@ -12,7 +12,7 @@ pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests te
 <details>
   <summary>Click For Windows</summary>
 
-  <a href="https://drive.google.com/file/d/1ISyyVPrhUzZ4MtXgOwog_mgqx8cpF_It/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1fCmbbQXkzaRbJXxUjZZztuHUcgiby0PB/view?usp=drive_link">
   <img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/IMG_0549.png" alt="Download" width="200"/>
 </a>
 
@@ -33,7 +33,7 @@ pip install opencv-python torch ultralytics numpy mss pynput pywin32 requests te
 
 ## Future Updates
 
-- [ ] HTMl Based Config Menu
+- [x] Config Menu (Added 9/26/2025)
 - [ ] Add Rapid Fire
 - [ ] Optimization For Higher FPS
 
