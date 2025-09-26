@@ -49,3 +49,9 @@ A look at the terminal -
 A Video of the Script being Used -<img src="https://github.com/KAYAZzz/R6-Aimbot/blob/main/Examplevid1.gif" alt="Gif" width="500"/>
 </a>
 
+A Look at the Menu Once -<img src="https://github.com/KAYAZzz/Open-cv-R6/blob/main/menu.png" alt="Gif" width="500"/>
+</a>
+
+A Look at the Menu Twice -<img src="https://github.com/KAYAZzz/Open-cv-R6/blob/main/menu%202.png" alt="Gif" width="500"/>
+</a>
+
